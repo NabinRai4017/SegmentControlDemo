@@ -1,0 +1,12 @@
+PODS:
+  - BetterSegmentedControl (0.8)
+
+DEPENDENCIES:
+  - BetterSegmentedControl (~> 0.8)
+
+SPEC CHECKSUMS:
+  BetterSegmentedControl: 9194e20687a02dd498a4e542cf523bdd8620fcb7
+
+PODFILE CHECKSUM: 4fc16902db3e732d37c261f55211d8e435448ef1
+
+COCOAPODS: 1.2.1
