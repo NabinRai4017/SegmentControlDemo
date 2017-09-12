@@ -65,7 +65,7 @@ I added a customView to make false height of selected Index
  
 Pictorial view of this segment control
 
-![screen shot 2017-09-12 at 5 51 39 pm](https://user-images.githubusercontent.com/28722125/30325066-fd060304-97e2-11e7-844b-de2cf4daeda9.png)
+![screen shot 2017-09-12 at 6 01 59 pm](https://user-images.githubusercontent.com/28722125/30325402-4ebfcb84-97e4-11e7-8451-31535485d9d7.png)
 
 
 Reference for BetterSegmentedController : https://github.com/gmarm/BetterSegmentedControl 
